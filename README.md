@@ -11,7 +11,7 @@
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="null" height="30" /></code>
     <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5niSKZpZhcw5Cxk4e5k_-_TNIeaRfu2fgw&s" alt="react.js" height="30" /></code>
     <code><img src="https://camo.githubusercontent.com/e84d110dc8fc6125b9138856352724ba0f8f6b86ec6ac91961669d407fd71e24/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383335382e706e67" alt="null" height="30" /></code>
-  </p>
+  </p> 
   <h1 align="center">lookory</h1>
 
    <div align="center">
